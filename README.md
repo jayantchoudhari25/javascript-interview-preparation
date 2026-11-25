@@ -86,6 +86,28 @@ javascript-interview-preparation/
 3. Open `index.html` in your browser.
 4. Enter employee details and test the salary calculations.
 
+### Day 03 – JavaScript Arrays and Objects
+
+**Concepts Covered:**
+- Array and object creation
+- Property access and destructuring
+- Spread and rest operators
+- Optional chaining
+- Object.keys(), Object.values() and Object.entries()
+- Mutability, immutability and copying
+- Shallow copy vs deep copy
+- Array methods: find(), filter(), map() and reduce()
+
+**New Functionalities:**
+- Created a structured employee dataset using an array of objects.
+- Implemented employee search by ID.
+- Implemented immutable employee role updates.
+- Created safe copies of employee objects.
+- Implemented department-wise employee count and salary calculations.
+- Applied reusable JavaScript utility functions.
+
+**Deliverable:** Employee Data Utility Module.
+
 ## Upcoming Learning Goals
 
 - Day 03 – JavaScript Arrays and Objects

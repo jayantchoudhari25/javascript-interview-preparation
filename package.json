@@ -1,0 +1,21 @@
+{
+  "name": "employee-salary-calculator",
+  "version": "1.0.0",
+  "description": "A practical JavaScript project developed as part of my JavaScript interview preparation. The application is progressively enhanced by implementing JavaScript concepts through real-world functionality.",
+  "main": "employeeData.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayantchoudhari25/javascript-interview-preparation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/jayantchoudhari25/javascript-interview-preparation/issues"
+  },
+  "homepage": "https://github.com/jayantchoudhari25/javascript-interview-preparation#readme"
+}
