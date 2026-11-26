@@ -108,14 +108,31 @@ javascript-interview-preparation/
 
 **Deliverable:** Employee Data Utility Module.
 
-## Upcoming Learning Goals
+### Day 04 – JavaScript Array Methods and Data Transformation
 
-- Day 03 – JavaScript Arrays and Objects
-- Day 04 – DOM Manipulation and Events
-- Day 05 – Scope, Hoisting and Closures
-- Day 06 – Array Methods (`map`, `filter`, `reduce`)
-- Day 07 – Callbacks and Higher-Order Functions
-- Future – Promises, Async/Await, ES6+, TypeScript, React.js and Next.js
+**Concepts Covered:**
+- map(), filter(), find(), findIndex()
+- some(), every(), reduce(), sort()
+- Callback functions
+- Higher-order functions
+- Method chaining
+- Immutable array transformations
+
+**New Functionalities:**
+- Implemented employee search by name.
+- Implemented department-wise employee filtering.
+- Implemented employee search by ID.
+- Implemented employee index identification.
+- Implemented salary-based employee sorting.
+- Implemented salary validation.
+- Calculated total company payroll using reduce().
+- Calculated department-wise payroll.
+- Generated employee salary summaries using map().
+- Tested array transformations without modifying the original dataset.
+
+**Deliverable:** Employee Data Transformation Exercise.
+
+**Testing:** Tested 10 employee data operations using Node.js.
 
 ## Learning Objective
 
